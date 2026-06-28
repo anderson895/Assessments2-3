@@ -33,10 +33,6 @@
 /Assessment3/Assessment3_flowchart.png
 /Assessment3/Assessment3_maze_solution.png
 
-# Exported helper files (local only)
-/Assessment3/Source - Chelo Laffin/requirements.txt
-/Assessment3/Assessment3_Requirements_Checklist.md
-
 # Python / OS caches
 __pycache__/
 *.pyc

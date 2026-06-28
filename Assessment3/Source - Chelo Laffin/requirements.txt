@@ -1,0 +1,17 @@
+# CAI104 - Assessment 3: Robot Path Planner
+# =========================================
+# The path planner (path_planner.py) uses ONLY the Python standard library
+# (heapq, collections). There are NO third-party packages to install.
+#
+# Requirement:
+#   Python 3.6 or newer
+#
+# How to run:
+#   python path_planner.py
+#
+# ----------------------------------------------------------------------
+# (Optional) The supporting Word/PDF document and the diagrams were produced
+# with the following tools. They are NOT needed to run the path planner and
+# are listed here only for completeness:
+#   python-docx>=1.2.0
+#   matplotlib>=3.10
