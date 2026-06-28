@@ -1,0 +1,46 @@
+# =====================================================================
+# Only the files actually required by Assessment 2 & 3 are tracked:
+#   Assessment2/CAI104_Assessment2_Laffin_Chelo.pdf
+#   Assessment3/CAI104_Assessment3_Laffin_Chelo.pdf
+#   Assessment3/Source - Chelo Laffin/path_planner.py
+# Everything else below is kept locally but NOT pushed.
+# =====================================================================
+
+# Local environment & tooling config
+/.claude/
+/.venv/
+
+# Working / generator scripts
+/gen_diagrams.py
+/gen_drawio.py
+/Assessment2/build_a2.py
+/Assessment3/build_a3.py
+/diagrams/
+
+# Provided materials (briefs & question sheet) - not deliverables
+/Assessment2/CAI104_Assessment-2_20240603.pdf
+/Assessment2/CAI104_A2-Workbook-Questions.docx
+/Assessment3/CAI104_Assessment-3_20240603.pdf
+
+# Editable working copies (only the final PDFs are submitted)
+/Assessment2/CAI104_Assessment2_Laffin_Chelo.docx
+/Assessment3/CAI104_Assessment3_Laffin_Chelo.docx
+
+# Standalone diagram sources/renders (already embedded inside the PDFs)
+/Assessment2/Assessment2_Q1_tree.drawio
+/Assessment2/Assessment2_Q1_tree.png
+/Assessment3/Assessment3_flowchart.drawio
+/Assessment3/Assessment3_flowchart.png
+/Assessment3/Assessment3_maze_solution.png
+
+# Exported helper files (local only)
+/Assessment3/Source - Chelo Laffin/requirements.txt
+/Assessment3/Assessment3_Requirements_Checklist.md
+
+# Python / OS caches
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
+Desktop.ini
+.DS_Store
